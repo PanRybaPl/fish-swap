@@ -1,0 +1,6 @@
+name: FishSwap
+version: 1.0
+main: pl.panryba.mc.swap.Plugin
+commands:
+    wymiana:
+        usage: /<command>
